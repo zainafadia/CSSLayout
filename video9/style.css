@@ -1,0 +1,22 @@
+.container {
+	width: : 300px;
+	border: 2px solid grey;
+	margin: auto;
+	padding: 5px;
+}
+
+.satu, .dua, .tiga  {
+	width: 70px;
+	height: 70px;
+}
+
+.satu {
+	background-color: coral;
+}
+.dua {
+	background-color: green;
+	float: right;
+}
+.tiga {
+	background-color: lightblue;
+}
